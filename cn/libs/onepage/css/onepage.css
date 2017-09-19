@@ -48,12 +48,6 @@ body {
   font-family: "Helvetica Neue","Open Sans",Arial,sans-serif;
 }
 
-@media (max-width:767px) {
-  .row.support .col-sm-4:not(:first-child) {
-    display: none;
-  }
-}
-
 .card {
   display: inline-block;
   position: relative;
@@ -772,7 +766,7 @@ a:focus, a:active {
 
 .footer .footer-brand span {
   font-size: 16px;
-  margin: 5px 0 10px;
+  margin: 5px 0 25px;
   color: #FFFFFF;
   display: block;
 }
