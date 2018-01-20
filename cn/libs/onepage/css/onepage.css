@@ -757,6 +757,17 @@ a:focus, a:active {
   display: inline-block;
 }
 
+.QR-code{
+ width:100px;
+ float: left;
+}
+.QR-label{
+  margin-top: 10px;
+  float: left;
+}
+.QR-code img{
+  width:100%;
+}
 .footer .footer-brand .logo {
   width: 46px;
   height: 46px;
