@@ -772,17 +772,8 @@ a:focus, a:active {
 .QR-code img{
   width:100%;
 }
-.footer .footer-brand .logo {
-  width: 46px;
-  height: 46px;
-  border-radius: 50%;
-  overflow: hidden;
-  margin: 0 auto;
-}
-
 .footer .footer-brand .logo img {
-  width: 45px;
-  height: 45px;
+  width: 50%;
 }
 
 .footer .footer-brand span {
