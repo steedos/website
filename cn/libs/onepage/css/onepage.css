@@ -79,7 +79,7 @@ body {
   position: relative;
   z-index: 2;
   min-height: 370px;
-  // max-width: 530px;
+  /* max-width: 530px; */
   text-align: center;
 }
 
@@ -145,7 +145,7 @@ a {
   color: #2ca8ff;
 }
 a:hover, a:focus {
-  // color: #109cff;
+  /* color: #109cff; */
   color: #333;
   text-decoration: none;
 }
@@ -1664,7 +1664,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#de8e0009', e
 } 
 
 .fixed-plugin .adjustments-line p{
-    float: left;
     display: inline-block;
     margin-bottom: 0;
     font-size: 1em;
@@ -1883,10 +1882,10 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#de8e0009', e
     height: 550px;
   }*/
   
-  // .landing-page .parallax .parallax-background img {
-  //   width: auto;
-  //   height: 100%;
-  // }
+  /* .landing-page .parallax .parallax-background img {
+    width: auto;
+    height: 100%;
+  } */
   .landing-page .parallax .description{
     margin-top: 65px;  
   }
